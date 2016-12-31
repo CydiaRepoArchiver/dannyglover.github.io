@@ -41,7 +41,7 @@ var template = '\
 <head> \
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/> \
 	<meta charset="UTF-8"> \
-	<link rel="shortcut icon" href="/Files/H6nry-Icon.png"> \
+	<link rel="shortcut icon" href="/Files/Icon.png"> \
 	<meta name="robots" content="index,follow"> \
 	<meta http-equiv="cache-control" content="Public|Private"> \
 	<title>'+title+'</title> \
@@ -50,8 +50,8 @@ var template = '\
 <body class="tp-dync2"> \
 \
 <header class="tp-dync" align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
-	<h1>H6nry\'s page</h1> \
-	"A different kind of magic." \
+	<h1>Danny Glover\'s page</h1> \
+	"Great tweaks, solid code." \
 </header> \
  \
 \
@@ -60,12 +60,7 @@ var template = '\
 	<a href="/index.html">Home</a><br><br> \
 	<a href="/projects.html">Projects</a><br><br> \
 	<a href="/repo/">Cydia repo</a><br><br> \
-	<a href="/tutorial-cydia-repo.html">Tutorial: How to host your own Cydia repo</a><br><br> \
-	<a href="/c-autoreleasepool.html">C-Autoreleasepool project</a><br><br> \
-	<a href="/surutcra.html">Surutcra - A Twitter client</a><br><br> \
-	<a href="/ncforward.html">NCForward - Forward your notifications</a><br><br> \
-    <a href="/common-theos-problems.html">A collection of common THEOS problems</a><br><br> \
-	<a href="http://github.com/H6nry/" target="_blank">Github</a><br><br> \
+	<a href="http://github.com/DannyGlover/" target="_blank">Github</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
 	<h4>News</h4> \
@@ -73,7 +68,6 @@ var template = '\
 	--- Noticed how the website colors change during the day? ---<br> \
 	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
 \
-	<h4>Clicks</h4><iframe src="/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
 </aside> \
 \
 <section class="tp-dync2"><br> \

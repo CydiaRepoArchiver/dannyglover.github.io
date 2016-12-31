@@ -1,8 +1,9 @@
 <div id="title">Danny Glover's Cydia repo</div>
 <div id="content">
-This is my Cydia repo.<br>
-All my tweaks are available here.<br><br>
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://h6nry.github.io/repo/"><b>Add Repo To Cydia</b></a><span id="ocy"></span><br><br>
+This is my Cydia repo.<br />
+All my tweaks are available here.<br /><br />
+Thanks to H6nry for his Cydia repo template! <a href="http://h6nry.github.io/tutorial-cydia-repo.html"></a><br /><br />
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://dannyglover.github.io/repo/"><b>Add Repo To Cydia</b></a><span id="ocy"></span><br /><br />
 <hr>
 <h4>These are the packages on this repo</h4>
 <div id="samples" style="width:100%"></div>
@@ -120,7 +121,7 @@ xhr.onreadystatechange = function() {
 			pack.Name + ' (' + pack.Version + ')</a><br>' +
 			'<div id="u_' + pack.Package + '" style="display:none;">' +
 			'&nbsp;&nbsp;' + pack.Description + '<br>' +
-			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=http://h6nry.github.io/repo/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
+			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=http://dannyglover.github.io/repo/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
 			'&nbsp;&nbsp;<a href="' + pack.Depiction + '" target="_blank">Show more info.</a><br>' +
 			'&nbsp;&nbsp;<a href="' + pack.Filename + '" target="_blank">Download the .deb package.</a><br><br>' +
 			'</div>';
