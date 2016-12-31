@@ -1,5 +1,0 @@
-1) Have your tweak project folder contained in this folder.
-2) In the tweak development folder in question, run: make package
-3) Add the name of the tweak folder to packages.sh
-4) Run ./update.sh
-5) Upload tweak .deb files and packages.bz2 
