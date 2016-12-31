@@ -1,0 +1,11 @@
+Package: com.infusedreams.nolongpresskeys
+Name: NoLongPressKeys
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disable the long press keys on your iOS keyboard. This tweak will make them do nothing when you long hold a letter and any special character keys will act like standard keys.
+Maintainer: InfuseDreams
+Author: InfuseDreams
+Section: Tweaks
+Homepage: http://www.infusedreams.com
+Version: 1.0.0
+Installed-Size: 68
