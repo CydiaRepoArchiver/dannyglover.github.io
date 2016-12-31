@@ -4,7 +4,7 @@ Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Disable the long press key actions on your iOS keyboard.
-Depiction: http://dannyglover.github.io/NoLongPressKeys/description.html
+Depiction: http://dannyglover.github.io/NoLongPressKeys/index.html
 Maintainer: Danny Glover
 Author: Danny Glover
 Section: Tweaks
