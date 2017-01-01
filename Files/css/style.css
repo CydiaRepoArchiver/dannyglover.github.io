@@ -31,8 +31,8 @@ form {width:100%;}
 .depiction .ui-listview .ui-btn-down-c {background: #106ce5;}
 .depiction .ui-listview .ui-btn-down-c a {color: #FFF;text-shadow: none;}
 .depiction .ui-listview .ui-icon-arrow-r {box-shadow: none;}
-.ui-listview .ui-icon-arrow-r {background-color: transparent; background-image: url("img/arrow1.png"); background-position: center center; background-repeat: no-repeat !important; background-size: 10px 13px !important;}
-.ui-listview .ui-icon-arrow-d {background-color: transparent; background-image: url("img/arrow2.png"); background-position: center center; background-repeat: no-repeat !important; background-size: 13px 10px !important;}
+.ui-listview .ui-icon-arrow-r {background-color: transparent; background-image: url("../img/arrow1.png"); background-position: center center; background-repeat: no-repeat !important; background-size: 10px 13px !important;}
+.ui-listview .ui-icon-arrow-d {background-color: transparent; background-image: url("../img/arrow2.png"); background-position: center center; background-repeat: no-repeat !important; background-size: 13px 10px !important;}
 img.profilepic {width:73px; height:73px; margin-top: 4px; margin-left: 3px; border-radius: 6px !important;}
 
 /* Screenshots + Video */
