@@ -5,8 +5,8 @@ Maintainer: Danny Glover
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: Files/NoLongPressKeys/NoLongPressKeys.deb
-Size: 1856
-MD5sum: f1cec1e70a31ff06ce8d73be3c8220fd
+Size: 1572
+MD5sum: dfcef0864201cf9392e13c285a3770bb
 Description: Disable the long press key actions on your iOS keyboard.
 Name: NoLongPressKeys
 Author: Danny Glover
