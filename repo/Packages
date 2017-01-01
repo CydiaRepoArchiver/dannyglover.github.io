@@ -5,6 +5,8 @@ Maintainer: Danny Glover
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: Files/NoLongPressKeys/NoLongPressKeys.deb
+Size: 1856
+MD5sum: f1cec1e70a31ff06ce8d73be3c8220fd
 Description: Disable the long press key actions on your iOS keyboard.
 Name: NoLongPressKeys
 Author: Danny Glover
@@ -17,6 +19,8 @@ Maintainer: Danny Glover
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: Files/NoShareReddit/NoShareReddit.deb
+Size: 4086
+MD5sum: 14f192ca556e7f7b288bc7dacb630e24
 Description: Disable the Reddit share button in the Reddit app.
 Name: NoShareReddit
 Author: Danny Glover
