@@ -25,3 +25,17 @@ Description: Disable the Reddit share button in the Reddit app.
 Name: NoShareReddit
 Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
+
+Package: com.dannyglover.nottoday10
+Version: 1.0
+Section: Tweaks
+Maintainer: Danny Glover
+Depends: mobilesubstrate, firmware (>= 10.0.1)
+Architecture: iphoneos-arm
+Filename: Files/NotToday10/NotToday10.deb
+Size: 1574
+MD5sum: 1a9ad6e2b3622703d29a66bbdc9945a7
+Description: Removes the today view/spotlight from notification center, lock screen and springboard.
+Name: NotToday10
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NotToday10/index.html
