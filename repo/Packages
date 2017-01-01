@@ -9,3 +9,15 @@ Description: Disable the long press key actions on your iOS keyboard.
 Name: NoLongPressKeys
 Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/NoLongPressKeys/index.html
+
+Package: com.dannyglover.nosharereddit
+Version: 1.0
+Section: Tweaks
+Maintainer: Danny Glover
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/NoShareReddit/NoShareReddit.deb
+Description: Disable the Reddit share button in the Reddit app.
+Name: NoShareReddit
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
