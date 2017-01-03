@@ -33,8 +33,8 @@ Maintainer: Danny Glover
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: Files/NotToday10/NotToday10.deb
-Size: 4274
-MD5sum: d96eb20e7f4edd37edd520b87fcd39f6
+Size: 3422
+MD5sum: d06faf22b5c46a7dcef97b0949c0f018
 Description: Removes the today view/spotlight from notification center, lock screen and springboard.
 Name: NotToday10
 Author: Danny Glover
