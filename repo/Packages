@@ -27,14 +27,14 @@ Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
 
 Package: com.dannyglover.nottoday10
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Danny Glover
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/NotToday10/NotToday10.deb
-Size: 3422
-MD5sum: d06faf22b5c46a7dcef97b0949c0f018
+Filename: Files/NotToday10/com.dannyglover.nottoday10_1.1_iphoneos-arm.deb
+Size: 3658
+MD5sum: 2f91bca177d2e750508a6eeb2d772fe7
 Description: Removes the today view/spotlight from notification center, lock screen and springboard.
 Name: NotToday10
 Author: Danny Glover
