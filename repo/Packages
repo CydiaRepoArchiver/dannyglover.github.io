@@ -47,8 +47,8 @@ Maintainer: Danny Glover
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: Files/KeepBanners/com.dannyglover.keepbanners_1.0_iphoneos-arm.deb
-Size: 1528
-MD5sum: 4d7de42e0cbaef89581edc471c96b357
+Size: 1524
+MD5sum: 708a682d23d50068b530c93cc6dbc357
 Description: Keep notification banners on screen until manually dismissed.
 Name: KeepBanners
 Author: Danny Glover
