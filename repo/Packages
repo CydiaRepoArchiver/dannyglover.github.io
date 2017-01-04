@@ -53,3 +53,17 @@ Description: Keep notification banners on screen until manually dismissed.
 Name: KeepBanners
 Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/KeepBanners/index.html
+
+Package: com.dannyglover.hidelabels10
+Version: 1.0
+Section: Tweaks
+Maintainer: Danny Glover
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/HideLabels10/com.dannyglover.hidelabels10_1.0_iphoneos-arm.de
+Size: 1654
+MD5sum: 5652d65a1c56ce476d203e8d35ad1050
+Description: Keep notification banners on screen until manually dismissed.
+Name: HideLabels10
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/HideLabels10/index.html
