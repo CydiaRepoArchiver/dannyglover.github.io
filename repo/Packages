@@ -41,7 +41,7 @@ Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/NotToday10/index.html
 
 Package: com.dannyglover.keepbanners
-Version: 1.1
+Version: 1.0
 Section: Tweaks
 Maintainer: Danny Glover
 Depends: mobilesubstrate
