@@ -39,3 +39,17 @@ Description: Removes the today view/spotlight from notification center, lock scr
 Name: NotToday10
 Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/NotToday10/index.html
+
+Package: com.dannyglover.keepbanners
+Version: 1.1
+Section: Tweaks
+Maintainer: Danny Glover
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/KeepBanners/com.dannyglover.keepbanners_1.0_iphoneos-arm.deb
+Size: 1528
+MD5sum: 4d7de42e0cbaef89581edc471c96b357
+Description: Keep notification banners on screen until manually dismissed.
+Name: KeepBanners
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/KeepBanners/index.html
