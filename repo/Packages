@@ -67,3 +67,15 @@ Description: Hide icon labels on the Springboard.
 Name: HideLabels10
 Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/HideLabels10/index.html
+
+Package: com.dannyglover.test
+Version: 1.0
+Section: Tweaks
+Maintainer: Danny Glover
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/HideLabels10/com.dannyglover.test_1.0_iphoneos-arm.deb
+Description: Test
+Name: HideLabels10
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/test/index.html
