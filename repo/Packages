@@ -2,15 +2,15 @@ Package: com.dannyglover.hidelabels10
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Danny Glover
-Installed-Size: 136
+Installed-Size: 120
 Depends: mobilesubstrate
 Filename: Files/HideLabels10/com.dannyglover.hidelabels10_1.0_iphoneos-arm.deb
-Size: 2970
-MD5sum: daceb2058150535c0f81603100ca405d
-SHA1: cec44dd4e73955e9dfa33c32308986d73627b752
-SHA256: 4038556bd861a75132d452a84abdc49005f644ae8fd487930d5204db1334dbed
+Size: 2990
+MD5sum: 389a1b10aff90d0c7e55252f35402f9c
+SHA1: ab7cbcec1863bc491c88d70ce4a1c6e3d05214e9
+SHA256: d86e17eb6b0e3f9b1c885ae7975ddfd882879c03e1b4e86eb78840d732abfd69
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Hide app labels on iOS 10.
 Author: Danny Glover
 Name: HideLabels10
 
@@ -67,18 +67,18 @@ Depiction: http://dannyglover.github.io/repo/NoShareReddit/index.html
 Name: NoShareReddit
 
 Package: com.dannyglover.nottoday10
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Danny Glover
-Installed-Size: 136
+Installed-Size: 248
 Depends: mobilesubstrate
-Filename: Files/NotToday10/com.dannyglover.nottoday10_1.1_iphoneos-arm.deb
-Size: 3658
-MD5sum: 2f91bca177d2e750508a6eeb2d772fe7
-SHA1: 8b0061bc71193b5d52667d93056d3feff971f3f2
-SHA256: acb282ad4a71dcd5af27587d780ab7afa998c48b15ebef8692e20d760544f80b
+Filename: Files/NotToday10/com.dannyglover.nottoday10_1.2_iphoneos-arm.deb
+Size: 6812
+MD5sum: d92ab5f48790ac4cf4f0fcbe556b675b
+SHA1: 35bff1f95b2cf78cffe8607974d325e1fcf409cb
+SHA256: e135e89b85df46db59d22d61b37519f60be0138627ee5348d7a19b2c84a7a912
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Disables the today/spotlight screen in all areas of iOS 10.
 Author: Danny Glover
 Name: NotToday10
 
