@@ -25,6 +25,19 @@
 			No icon added to springboard.<br><br>
 		</ul>
 		<ul data-role="listview" data-inset="true">
+			<li data-role="list-divider">Make a donation</li>			
+		    <li><form name="_xclick" action="https://www.paypal.com/ie/cgi-bin/webscr" method="post">
+				<input type="hidden" name="cmd" value="_xclick">
+				<input type="hidden" name="business" value="me@mybiz.com">
+				<input type="hidden" name="item_name" value="Team In Training">
+				<input type="hidden" name="currency_code" value="EUR">
+				<input type="hidden" name="amount" value="25.00">
+				<input type="image" src="http://www.paypal.com/en_US/i/btn/x-click-butcc-donate.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+				</form>
+			</li>
+		    <li><a href="http://twitter.com/infusedreams" target="_blank"><img src="../../../Files/img/twitter.svg" alt="Twitter" class="ui-li-icon">Developer's Twitter</a></li>
+		</ul>
+		<ul data-role="listview" data-inset="true">
 			<li data-role="list-divider">More Info</li>
 			<li><a href="#screenshots" target="_blank"><img src="../../../Files/img/screens.svg" alt="Screenshots" class="ui-li-icon">Screenshots</a></li>			
 		    <li><a href="#instructions" target="_blank"><img src="../../../Files/img/nb.svg" alt="Instructions" class="ui-li-icon">Instructions</a></li>
