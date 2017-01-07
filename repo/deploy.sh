@@ -1,8 +1,10 @@
+# Make packages
 rm Packages
 rm Packages.gz
-rm Packages.bz2
 dpkg-scanpackages Files/ > Packages
 gzip -k Packages
+
+# Deploy to github
 git -C ../
 git add .
 git commit -m "$1"
