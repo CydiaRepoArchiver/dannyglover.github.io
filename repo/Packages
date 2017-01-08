@@ -85,16 +85,16 @@ Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
 Name: NoShareReddit
 
 Package: com.dannyglover.nottoday10
-Version: 1.2.1
+Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: Danny Glover
-Installed-Size: 260
+Installed-Size: 284
 Depends: mobilesubstrate
-Filename: Files/NotToday10/com.dannyglover.nottoday10_1.2.1_iphoneos-arm.deb
-Size: 13724
-MD5sum: 2e7c9892c68e58d415ee019210b37464
-SHA1: c0ea0429aeadf77c006e71da5cab3429fa00d172
-SHA256: 418dde886feab0b1b062ad766558c7c70fd96a92d2b178153387b7427428cf54
+Filename: Files/NotToday10/com.dannyglover.nottoday10_1.2.2_iphoneos-arm.deb
+Size: 24728
+MD5sum: 4b695231cc6ded75b28b88813fe1ef6b
+SHA1: fef7487b2e73c362a78074b3e729c95f0eaac6e4
+SHA256: dfc858c8810dd0191a59f558706bf4b373125811e5f8db44e8cd31ca9cb81db8
 Section: Tweaks
 Description: Disables the today/spotlight screen in all areas of iOS 10.
 Author: Danny Glover
