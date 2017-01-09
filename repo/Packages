@@ -84,6 +84,23 @@ Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/NoLongPressKeys/index.html
 Name: NoLongPressKeys
 
+Package: com.dannyglover.nolowpoweralert
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/NoLowPowerAlert/com.dannyglover.nolowpoweralert_1.0_iphoneos-arm.deb
+Size: 3038
+MD5sum: 04d41a8d1513a25b9e3f398eff666427
+SHA1: 51484ffa46a355e1794eac102b9afffca475c7e5
+SHA256: 4d61e5517d1de6c2c043facce65619a024de3516775808fc43743fb80ea6258c
+Section: Tweaks
+Description: Disables tlow power alerts.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/NoLowPowerAlert/index.html
+Name: NoLowPowerAlert
+
 Package: com.dannyglover.nosharereddit
 Version: 1.0
 Architecture: iphoneos-arm
