@@ -32,6 +32,23 @@ Author: Danny Glover
 Depiction: http://dannyglover.github.io/repo/Files/KeepBanners/index.html
 Name: KeepBanners
 
+Package: com.dannyglover.messagesalwaysshowkeyboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Danny Glover
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: Files/MessagesAlwaysShowKeyboard/com.dannyglover.messagesalwaysshowkeyboard_1.0_iphoneos-arm.deb
+Size: 3354
+MD5sum: b77ee2fc28fd5912946a2f884d4c45cf
+SHA1: 7dc2ea87ee56a569ab118232d31aaef2f325ffd0
+SHA256: 024d42c2dec32bd921fcf51a1cccdcb121da845904342ff609bf77a3abd428cd
+Section: Tweaks
+Description: Always show the keyboard when opening a chat in the Apple messages app.
+Author: Danny Glover
+Depiction: http://dannyglover.github.io/repo/Files/MessagesAlwaysShowKeyboard/index.html
+Name: MessagesAlwaysShowKeyboard
+
 Package: com.dannyglover.nofolderbackground
 Version: 1.0
 Architecture: iphoneos-arm
